@@ -1,0 +1,6 @@
+[submodule "infrastructure"]
+	path = infrastructure
+	url = https://github.com/Preskton/azure-rm-demo
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/Preskton/openmct.git
